@@ -1,8 +1,13 @@
 {
   "name": "syf",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "author": {
+    "name": "syf",
+    "email": "648733680@qq.com",
+    "url": "https://github.com/648733680/syf-study/tree/main"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
